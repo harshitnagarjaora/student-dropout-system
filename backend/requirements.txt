@@ -1,0 +1,9 @@
+# Minimal requirements without specific versions
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+sqlalchemy
+python-multipart
